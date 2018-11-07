@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PoseEntries:
   - path: HUESOS/cadera
-    localPosition: {x: 1.1275496, y: -5.7021375, z: 0}
+    localPosition: {x: 1.12755, y: -5.702137, z: 0}
     localRotation: {x: 0, y: 0, z: 0.8000022, w: 0.5999971}
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/espalda
@@ -22,15 +22,15 @@ MonoBehaviour:
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/espalda/cabeza
     localPosition: {x: 2.5249314, y: 0.0000008046627, z: 0}
-    localRotation: {x: 0, y: 0, z: 0.12667851, w: 0.99194384}
+    localRotation: {x: 0, y: 0, z: 0.12668379, w: 0.9919432}
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/espalda/brazoIzquierdo
     localPosition: {x: 0.850176, y: 1.2555437, z: 0}
-    localRotation: {x: 0, y: 0, z: 0.95079964, w: 0.3098065}
+    localRotation: {x: 0, y: 0, z: 0.99286324, w: 0.11925828}
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/espalda/brazoIzquierdo/antebrazoIzquierdo
     localPosition: {x: 2.0335135, y: -0.00000071525574, z: 0}
-    localRotation: {x: 0, y: 0, z: 0.0014024812, w: 0.99999905}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/espalda/brazoIzquierdo/antebrazoIzquierdo/manoIzquierda
     localPosition: {x: 2.3382168, y: -0.00000033713877, z: 0}
@@ -38,11 +38,11 @@ MonoBehaviour:
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/espalda/brazoDerecho
     localPosition: {x: 1.3901142, y: -1.5856133, z: 0}
-    localRotation: {x: 0, y: 0, z: -0.73542583, w: 0.6776052}
+    localRotation: {x: 0, y: 0, z: -0.84789705, w: 0.530161}
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/espalda/brazoDerecho/antebrazoDerecho
     localPosition: {x: 2.6116772, y: 0.00000047683716, z: 0}
-    localRotation: {x: 0, y: 0, z: -0.022801349, w: 0.99974}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/espalda/brazoDerecho/antebrazoDerecho/manoDerecha
     localPosition: {x: 2.368071, y: 0.0000005115344, z: 0}
@@ -50,11 +50,11 @@ MonoBehaviour:
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/piernaIzquierda
     localPosition: {x: -0.7512102, y: -1.91, z: 0}
-    localRotation: {x: 0, y: 0, z: -0.98333406, w: 0.1818079}
+    localRotation: {x: 0, y: 0, z: -0.95805347, w: 0.28658962}
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/piernaIzquierda/piernaIzquierda2
     localPosition: {x: 2.2341037, y: 0.00000071525574, z: 0}
-    localRotation: {x: 0, y: 0, z: -0.0024045066, w: 0.99999714}
+    localRotation: {x: 0, y: 0, z: -0.42234984, w: 0.9064329}
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/piernaIzquierda/piernaIzquierda2/pieIzquierdo
     localPosition: {x: 2.8210473, y: -0.00000033178367, z: 0}
@@ -62,13 +62,13 @@ MonoBehaviour:
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/piernaDerecha
     localPosition: {x: 0.051184475, y: 1.3642795, z: 0}
-    localRotation: {x: 0, y: 0, z: 0.94433165, w: 0.3289951}
+    localRotation: {x: 0, y: 0, z: 0.95330775, w: 0.30200073}
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/piernaDerecha/piernaDerecha2
     localPosition: {x: 2.227799, y: 0.00000023841858, z: 0}
-    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localRotation: {x: 0, y: 0, z: -0.050676975, w: 0.9987151}
     localScale: {x: 1, y: 1, z: 1}
   - path: HUESOS/cadera/piernaDerecha/piernaDerecha2/pieDerecho
     localPosition: {x: 2.5113602, y: -0.0000000038853614, z: 0}
-    localRotation: {x: 0, y: 0, z: -0.7533288, w: -0.65764403}
+    localRotation: {x: 0, y: 0, z: 0.8392215, w: 0.5437898}
     localScale: {x: 1, y: 1, z: 1}
